@@ -35,7 +35,7 @@ public class Main {
                     System.out.println("2. Exit");
                     System.out.print("Enter choice: ");
                     choice = sc.nextInt();
-                    sc.nextLine();  // clear buffer
+                    sc.nextLine(); 
 
                     if (choice == 1) {
 
